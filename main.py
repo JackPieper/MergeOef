@@ -1,4 +1,6 @@
 a = 6 + 10
 
 for i in a:
-    print('Hallo monke')
+    if i == 10:
+        print('Hallo monke')
+
